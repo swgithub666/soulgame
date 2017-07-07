@@ -1,0 +1,11 @@
+*{ margin:0; padding:0;}
+h1,h2,h3,h4,h5,h6,b,strong{ font-weight:normal}
+em,i{ font-style:normal;}
+a{ color:#000; text-decoration:none;}
+ul li,ol li{ list-style:none;}
+img{ vertical-align:top;}
+.clearfix:after{ display:block; content:''; clear:both;}
+.clearfix{ zoom:1;}
+input{outline:none; border:0 none; background:#fff;}
+
+
